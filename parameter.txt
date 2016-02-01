@@ -1,0 +1,8 @@
+Parameter.txt
+
+GCmin= 30
+GCmax= 80
+hairpin= 4
+upstream= 12
+contU= 3
+addtlG= false
